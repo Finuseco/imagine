@@ -1,0 +1,6 @@
+{
+  "name": "Imagine Store",
+  "description": "Vitrine e-commerce automatisée connectée en temps réel à l'API publique CashPay Shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
